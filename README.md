@@ -18,30 +18,30 @@ In order to incorporate the UWB localization system with the AGV, a device title
 
 Within the following the contents of the CoLAB gitHub page will be explained. The three main components the read me, repository and wiki will be highlighted.
 
-### Read Me 
+* ### Read Me 
 Within the read me the basic introduction to the project and problem happens. The products of the project thus to content of the gitHub page is also explained. Alongside this information the main credits to the page as well as a quick how to use guide can be found.
 
-### Repository
+* ### Repository
 The repository is where the final products of the project thus the content can be found. This is where the final designs and software can be downloaded from. All the research material used is also provided alongside the datasheets and explaining flow charts and diagrams. Some files to aid with system set up can also be found in the repository.
 
-### Wiki
+* ### Wiki
 The wiki is where the design is given a further explanation. Each components of the system is given a page along with explanations to its design. Some pages elaborate on the system, validation or final conclusions. For navigation use the table of contents side bar on the right side of the page.
 
 ## How to use
 
 Within the following a quick start guide will be given on how to set up the CoLAB system on your own AGV. It is Important to note that this guide will give a global layout and reference set up files, however some extra more in depth set up information might be found in the referenced files.
 
-### How to initiate (loading code + connect)
+* ### How to initiate (loading code + connect)
 In order to set up a system like the CoLAB first order all the components, print the parts and PCB. After this is completed there is a guide titled (start guide) in the depositor that is an assembly guide to the CoLAB. In this guide further information details how to set up a raspberry pi for the CoLAB as well.
 Once the CoLAB is set up it is time to set up the UWB devices with the correct image. Only the tags on the AGV have to be set up
 
-### How to set up (config)
+* ### How to set up (config)
 Config AGV config file
 Config Network
 Config UWB Network
 Config AGV
 
-### End results
+* ### End results
 As an end reslut of running the code correctly, there are two important aspects taht happen. The communication code between all the connected AGVs is running and they are communicating their information to each other. The second thing is a visualziation software that is built into every AGV. This shows the AGVs around. This is the end result of code in a nutshell, the wiki explains further information of the exact communication and information passing through.
 
 
@@ -50,18 +50,18 @@ As an end reslut of running the code correctly, there are two important aspects 
 This project was created as part of a Mechatronics university course for Fontys University of Applied Sciences with the involvement of the following parties:
 
 ### Created by
-Nicole Celine;
-Arjan van der Heijden
-Mike Luiken
-Simeon Stoyanov
-Pascal Dinjens
-Long Nguyen
-Ryan Muhammad
-Benedek Papp
+* Nicole Celine
+* Arjan van der Heijden
+* Mike Luiken
+* Simeon Stoyanov
+* Pascal Dinjens
+* Long Nguyen
+* Ryan Muhammad
+* Benedek Papp
 
 ### Mentorship and Project Ownership
-Pablo Negrete Rubio
-Sjriek Alers
+* Pablo Negrete Rubio
+* Sjriek Alers
 
 
 Throughout the project the following sources were used as guidence, inspiration and technical details:
