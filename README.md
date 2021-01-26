@@ -50,7 +50,7 @@ As an end reslut of running the code correctly, there are two important aspects 
 This project was created as part of a Mechatronics university course for Fontys University of Applied Sciences with the involvement of the following parties:
 
 ### Created by
-Nicole Celine,
+Nicole Celine;
 Arjan van der Heijden
 Mike Luiken
 Simeon Stoyanov
