@@ -1,0 +1,37 @@
+{
+    "allowed_methods": null,
+    "battery_percentage": 71.4000015258789,
+    "battery_time_remaining": 25682,
+    "distance_to_next_target": 0.0,
+    "errors": [],
+    "footprint": "[[0.506,-0.32],[0.506,0.32],[-0.454,0.32],[-0.454,-0.32]]",
+    "joystick_low_speed_mode_enabled": false,
+    "joystick_web_session_id": "",
+    "map_id": "f3b1b82b-4e98-11eb-864d-94c6911adace",
+    "mission_queue_id": null,
+    "mission_queue_url": null,
+    "mission_text": "Waiting for new missions...",
+    "mode_id": 7,
+    "mode_key_state": "idle",
+    "mode_text": "Mission",
+    "moved": 138414.2464227074,
+    "position": {
+        "orientation": -116.71485900878906,
+        "x": 14.622010231018066,
+        "y": 11.7367525100708
+    },
+    "robot_model": "MiR100",
+    "robot_name": "MiR_R685",
+    "safety_system_muted": false,
+    "serial_number": "180100002000685",
+    "session_id": "f2b33aac-4e98-11eb-864d-94c6911adace",
+    "state_id": 4,
+    "state_text": "Pause",
+    "unloaded_map_changes": false,
+    "uptime": 10710,
+    "user_prompt": null,
+    "velocity": {
+        "angular": 0.0,
+        "linear": 0.0
+    }
+}
