@@ -38,11 +38,11 @@ Once the CoLAB is set up it is time to set up the UWB devices with the correct i
 * ### How to set up (config)
 It is very easy to use a CoLAB device. It is almost plug and play. There are a couple of things that need to be commpleted before use. A list of these can be found below. It is important to note that these steps must be repeated for each CoLAB device on each AGV.
 
-** Fill out [Configuration File](https://github.com/fontysrobotics/cross_robot_localization_with_UWB_COLAB/blob/main/Software/CoLAB_config.py) of AGV
-** Plug tags to CoLAB and Attach to AGV
-** Note down distance between tags in config file
-** Set up ports of tags using [set up guide](https://github.com/fontysrobotics/cross_robot_localization_with_UWB_COLAB/blob/main/UWB_Documentation/UWB_Setup_Guides/Use%20RaspberryPi%20terminal%20(1).docx)
-** The device must be connected to the network and it is ready to use
+1. Fill out [Configuration File](https://github.com/fontysrobotics/cross_robot_localization_with_UWB_COLAB/blob/main/Software/CoLAB_config.py) of AGV
+1. Plug tags to CoLAB and Attach to AGV
+1. Note down distance between tags in config file
+1. Set up ports of tags using [set up guide](https://github.com/fontysrobotics/cross_robot_localization_with_UWB_COLAB/blob/main/UWB_Documentation/UWB_Setup_Guides/Use%20RaspberryPi%20terminal%20(1).docx)
+1. The device must be connected to the network and it is ready to use
 
 * ### End results
 As an end reslut of running the code correctly, there are two important aspects taht happen. The communication code between all the connected AGVs is running and they are communicating their information to each other. The second thing is a visualziation software that is built into every AGV. This shows the AGVs around. This is the end result of code in a nutshell, the wiki explains further information of the exact communication and information passing through.
