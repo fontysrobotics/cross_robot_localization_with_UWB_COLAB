@@ -72,3 +72,26 @@ Throughout the project the following sources were used as guidence, inspiration 
 
 ### Sources
 
+* EEAdi, et al. “Using DWM1001 API on Raspberry Pi and PySerial.” Decawave Tech Forum, 8 Dec. 2019, [decaforum.decawave.com/t/using-dwm1001-api-on-raspberry-pi-and-pyserial/6567]( decaforum.decawave.com/t/using-dwm1001-api-on-raspberry-pi-and-pyserial/6567). 
+
+* Robots, Mobile Industrial. “Please Select Language.” MiR100™ | Mobile Industrial Robots, [www.mobile-industrial-robots.com/en/solutions/robots/mir100/]( www.mobile-industrial-robots.com/en/solutions/robots/mir100/). 
+
+* “The Standard for IoT Messaging.” MQTT, [mqtt.org/]( mqtt.org/).
+
+* Eclipse Mosquitto, 8 Jan. 2018, [mosquitto.org/]( mosquitto.org/.). 
+
+* Craggs, Ian. “Eclipse Paho: The Eclipse Foundation.” Enabling Open Innovation & Collaboration, [www.eclipse.org/paho/]( www.eclipse.org/paho/). 
+
+* “Visualization with Python¶.” Matplotlib, [matplotlib.org/]( matplotlib.org/). 
+
+* “Home.” Decawave, 29 May 2019, [decawave.com/](decawave.com/). 
+
+* Apichet Garaipoom I love the electronic circuits. I will collect a lot of circuit electronics to teach my son and are useful for everyone., et al. “LM2596 Circuit Voltage Regulator and LM2673 Datasheet.” ElecCircuit.com, 19 July 2020, [www.eleccircuit.com/regulator-switching-dc-to-dc-step-down-voltage-with-lm2596/]( www.eleccircuit.com/regulator-switching-dc-to-dc-step-down-voltage-with-lm2596/.). 
+
+* “LTC Debuts LTC4060 NiMH/NiCd Battery Charger - New Industry Products.” EEPower, [eepower.com/new-industry-products/ltc-debuts-ltc4060-nimhnicd-battery-charger/#]( eepower.com/new-industry-products/ltc-debuts-ltc4060-nimhnicd-battery-charger/#). 
+
+* “Dual 4A Ideal Diodes with Adjustable Current Limit.” Datasheet, Linear Technology Co., [datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU1/DSASFU10008413.pdf]( datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU1/DSASFU10008413.pdf). 
+
+* Zach-Goh. “Zach-Goh/Omron_LD_ROS_Package.” GitHub, [github.com/zach-goh/Omron_LD_ROS_Package](github.com/zach-goh/Omron_LD_ROS_Package). 
+
+* “OMRON Industrial Automation.” OMRON, [www.ia.omron.com/]( www.ia.omron.com/). 
