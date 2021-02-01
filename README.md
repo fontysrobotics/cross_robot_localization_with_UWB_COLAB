@@ -95,3 +95,5 @@ Throughout the project the following sources were used as guidence, inspiration 
 * Zach-Goh. “Zach-Goh/Omron_LD_ROS_Package.” GitHub, [github.com/zach-goh/Omron_LD_ROS_Package](github.com/zach-goh/Omron_LD_ROS_Package). 
 
 * “OMRON Industrial Automation.” OMRON, [www.ia.omron.com/]( www.ia.omron.com/). 
+
+* “BU-203: Nickel-Based Batteries.” Nickel-Based Batteries Information – Battery University, [batteryuniversity.com/learn/article/nickel_based_batteries](batteryuniversity.com/learn/article/nickel_based_batteries). 
