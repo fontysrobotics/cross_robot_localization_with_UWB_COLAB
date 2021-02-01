@@ -38,6 +38,7 @@ Once the CoLAB is set up it is time to set up the UWB devices with the correct i
 * ### How to set up (config)
 It is very easy to use a CoLAB device. It is almost plug and play. There are a couple of things that need to be commpleted before use. A list of these can be found below. It is important to note that these steps must be repeated for each CoLAB device on each AGV.
 
+1. Order all parts and assemble the device compoennets using the [guides](https://github.com/fontysrobotics/cross_robot_localization_with_UWB_COLAB/tree/main/PhysicalSystem/Assembly_documents)
 1. Fill out [Configuration File](https://github.com/fontysrobotics/cross_robot_localization_with_UWB_COLAB/blob/main/Software/CoLAB_config.py) of AGV
 1. Plug tags to CoLAB and Attach to AGV
 1. Note down distance between tags in config file
